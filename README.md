@@ -10,3 +10,6 @@ Adios!
 ##Subheader
 
 I added it during watching YouTube tutorial.
+##Local Development
+
+1.Opem index.html in your browser.
